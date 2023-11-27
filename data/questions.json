@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "_asa 🏠",
+      "options": ["K", "C", "Q", "T"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Qual é a forma correta do plural de 'aquilo'",
+      "options": ["Aquelos", "Aquelas", "Aqueles", "Aquela"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Qual é o antônimo de 'alto'?",
+      "options": ["Baixo", "Grande", "Forte", "Magro"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Qual é o artigo definido para a palavra 'sol'?",
+      "options": ["Um", "O", "Uns", "A"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Cacho_ro 🐕",
+      "options": [
+        "p",
+        "d",
+        "q",
+        "r"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Qual é o resultado da subtração 17 - 8 ?",
+      "options": ["9", "10", "15", "7"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Qual é o resultado da divisão 15 / 3 ?",
+      "options": [
+        "3",
+        "10",
+        "45",
+        "5"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "🍌",
+      "options": [
+        "Abacaxi",
+        "Banana",
+        "Panana",
+        "Sapo"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Qual é o resultado de 8 X 9?",
+      "options": [
+        "71",
+        "64",
+        "80",
+        "72"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "El_fante 🐘",
+      "options": [
+        "e",
+        "a",
+        "h",
+        "u"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Qual é o resultado da divisão 12 / 3 ?",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "10"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Qual é o resultado da subtração 15 - 9 ?",
+      "options": ["10", "6", "7", "12"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Qual é o resultado da multiplicação 5 X 9 ?",
+      "options": [
+        "45",
+        "54",
+        "50",
+        "40"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Qual é o resultado da divisão 4 / 2 ?",
+      "options": [
+        "1",
+        "8",
+        "2",
+        "4"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Qual é a sílaba tônica da palavra 'fácil'",
+      "options": [
+        "Fá",
+        "Fácil",
+        "Fa",
+        ""
+      ],
+      "correctOption": 3,
+      "points": 20
+    }
+  ]
+}
